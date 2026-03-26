@@ -2,15 +2,15 @@
 
 [cite_start]**Author:** Paras Chaudhari [cite: 16]
 
-## 📌 Problem Statement
+## Problem Statement
 Understanding the complex relationship between our daily habits and our rest is crucial for overall well-being. [cite_start]The primary objective of this analysis is to understand how demographic factors and lifestyle behaviors influence sleep patterns, stress levels, and overall health outcomes using interactive Power BI visualizations[cite: 36, 37]. 
 
-## 💡 Solution
+## Solution
 [cite_start]To address this, I developed an interactive Power BI dashboard that transforms raw health data into actionable insights[cite: 125, 127]. 
 * [cite_start]**Data Transformation:** Added calculated columns such as Age Group, Sleep Quality Category, Systolic BP, and Diastolic BP to enhance analysis and visualization clarity[cite: 123].
 * [cite_start]**Dynamic Calculations:** Created specific DAX measures including Average Sleep Duration, Average Stress Level, Average Daily Steps, Average Heart Rate, Total People, and Sleep Disorder Count to improve analytical accuracy[cite: 122].
 
-## 📊 Key Insights Generated
+## Key Insights Generated
 
 ### Demographics & Sleep Overview
 * [cite_start]**Balanced Representation:** The study population is nearly equal, with females making up 51.7% and males 48.3%[cite: 41]. 
@@ -34,6 +34,8 @@ Understanding the complex relationship between our daily habits and our rest is 
 ## 📸 Dashboard Screenshots
 *(Add your screenshots here by replacing the link below with your actual image file paths)*
 
-![Page 1: Demographic Overview](Dashboard1.png)
-![Page 2: Lifestyle and Occupational Impacts](link-to-image-2.png)
-![Page 3: Age-Based Health Metrics](link-to-image-3.png)
+!(Dashboard1.png)
+!(Dashboard2.png)
+!(Dashboard3.png)
+!(Dashboard4.png)
+!(Dashboard5.png)
