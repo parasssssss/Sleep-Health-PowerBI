@@ -11,7 +11,7 @@ Understanding the complex relationship between our daily habits and our rest is 
 
 ## Solution
 To address this, I developed an interactive Power BI dashboard that transforms raw health data into actionable insights. 
-* **Data Transformation:** Added calculated columns such as Age Group, Sleep Quality Category, Systolic BP, and Diastolic BP to enhance analysis and visualization clarity.
+* **Data Transformation:** Added  calculated columns such as Age Group, Sleep Quality Category, Systolic BP, and Diastolic BP to enhance analysis and visualization clarity.
 * **Dynamic Calculations:** Created specific DAX measures including Average Sleep Duration, Average Stress Level, Average Daily Steps, Average Heart Rate, Total People, and Sleep Disorder Count to improve analytical accuracy.
 
 ## Key Insights Generated
